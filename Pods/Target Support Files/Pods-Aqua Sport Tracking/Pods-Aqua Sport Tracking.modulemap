@@ -1,0 +1,6 @@
+framework module Pods_Aqua_Sport_Tracking {
+  umbrella header "Pods-Aqua Sport Tracking-umbrella.h"
+
+  export *
+  module * { export * }
+}
